@@ -1,7 +1,7 @@
 <template>
   <div>
     <h5>登录后的页面</h5>
-    <div>用户名：{{user.name}}</div>
+    <div>用户名：{{user.loginId}}</div>
     <div>密码：{{user.password}}</div>
   </div>
 </template>

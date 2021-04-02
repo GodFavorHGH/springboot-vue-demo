@@ -33,9 +33,7 @@ export default {
     doGet(){
       this.$http.get('http://127.0.0.1:9080/login/get?'+'loginId='+this.formData.loginId+'&'+'password='+this.formData.password).then(res=>{
         if (!!res.data){
-          alert("get 请求："+res.data.message);
           console.log(res.data)
-          debugger
           this.$router.push({name:'Home',params:res.data.data})
         }
       }).catch(function (error) {
@@ -45,9 +43,7 @@ export default {
     doPost(){
       this.$http.post('http://127.0.0.1:9080/login/post', this.formData).then(res=>{
         if (!!res.data && res.data.code == 200){
-          alert("post 请求："+res.data.message);
           console.log(res.data)
-          debugger
           this.$router.push({name:'Home',params:res.data.data})
         }
       }).catch(function (error) {

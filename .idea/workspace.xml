@@ -20,7 +20,6 @@
       <change afterPath="$PROJECT_DIR$/../spring-boot/dep.log" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spring-boot/src/main/docker/Dockerfile" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../spring-boot/src/main/java/com/haugv/controller/DockerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue/src/components/Home.vue" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test-package/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test-package/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test-package/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
@@ -115,10 +114,8 @@
       <change beforePath="$PROJECT_DIR$/../java-study-notes/redis/src/main/java/com/haugv/utils/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-study-notes/redis/src/main/java/com/haugv/utils/RedisUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../sprigboot-restful-demo/common-esb-api/pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../springboot-mongodb-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-mongodb-study/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boot/src/main/java/haugv/ihast/boot/common/JsonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot/src/main/java/haugv/ihast/boot/common/JsonResult.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vue/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/src/components/HelloWorld.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/src/components/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/src/components/Home.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +209,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617345835466</updated>
-      <workItem from="1617345837303" duration="2548000" />
+      <workItem from="1617345837303" duration="3835000" />
     </task>
     <servers />
   </component>

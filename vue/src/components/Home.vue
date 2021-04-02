@@ -1,15 +1,18 @@
 <template>
-  <div>登录后的页面</div>
-  <div>{{this.user.name}}</div>
+  <div>
+    <h5>登录后的页面</h5>
+    <div>用户名：{{user.name}}</div>
+    <div>密码：{{user.password}}</div>
+  </div>
 </template>
 
 <script>
 export default {
   data () {
-    debugger
     return {
       user: this.$route.params,
     }
+
   },
   name: 'Home',
 }

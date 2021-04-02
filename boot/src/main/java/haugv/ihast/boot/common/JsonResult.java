@@ -16,7 +16,7 @@ public class JsonResult<T> {
 
     private int code;
     private String message;
-    private T tata;
+    private T data;
 
     public JsonResult(int code, String message){
         this(code, message, null);

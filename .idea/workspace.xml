@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3ad6f77-dea5-44e9-a10b-63d60f3d2245" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../project-boot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/src/main/java/haugv/ihast/projectboot/VueBootApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/src/main/java/haugv/ihast/projectboot/controller/VueController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project-boot/src/test/java/haugv/ihast/projectboot/VueBootApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot/dep.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot/src/main/docker/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot/src/main/java/com/haugv/controller/DockerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test-package/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-spring-boot/src/main/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-spring-boot/src/main/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-spring-boot/src/main/java/com/haugv/DockerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-spring-boot/src/main/java/com/haugv/DockerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-spring-boot/src/main/java/com/haugv/controller/DockerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-spring-boot/src/main/java/com/haugv/controller/DockerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker-spring-boot/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-spring-boot/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../docker/src/main/java/com/haugv/docker/DockerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../docker/src/main/java/com/haugv/docker/DockerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/FAQ.md" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/FAQ.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-common/src/main/java/com/haugv/service/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-common/src/main/java/com/haugv/service/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/src/main/java/com/haugv/StartConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/src/main/java/com/haugv/StartConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/src/main/resources/dubbo-consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/src/main/resources/dubbo-consumer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/src/main/resources/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/src/main/resources/dubbo.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-consumer/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/src/main/java/com/haugv/StartProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/src/main/java/com/haugv/StartProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/src/main/java/com/haugv/service/hello/impl/HelloServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/src/main/java/com/haugv/service/hello/impl/HelloServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/src/main/resources/dubbo-provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/src/main/resources/dubbo-provider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/src/main/resources/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/dubbo-provider/src/main/resources/dubbo.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dubbo-start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dubbo-start/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-account-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-account-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-account-service/src/main/java/com/haugv/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-account-service/src/main/java/com/haugv/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-account-service/src/main/resources/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-account-service/src/main/resources/dubbo.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-common-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-common-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-common-api/src/main/java/com/haugv/service/account/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-common-api/src/main/java/com/haugv/service/account/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-common-api/src/main/java/com/haugv/service/order/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-common-api/src/main/java/com/haugv/service/order/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-common-api/src/main/java/com/haugv/service/stock/StockService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-common-api/src/main/java/com/haugv/service/stock/StockService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/src/main/java/com/haugv/DubboOrderApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/src/main/java/com/haugv/DubboOrderApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/src/main/java/com/haugv/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/src/main/java/com/haugv/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/src/main/java/com/haugv/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/src/main/java/com/haugv/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-order-service/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-stock-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-stock-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-stock-service/src/main/java/com/haugv/service/impl/StockServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-stock-service/src/main/java/com/haugv/service/impl/StockServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-stock-service/src/main/resources/dubbo-stock-service.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-stock-service/src/main/resources/dubbo-stock-service.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-stock-service/src/main/resources/dubbo.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-stock-service/src/main/resources/dubbo.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-user-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-user-service/src/main/java/com/haugv/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/dubbo/dubbo-user-service/src/main/java/com/haugv/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-commands/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-commands/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service8000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service8000/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service8000/src/main/java/com/haugv/Stock8000Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service8000/src/main/java/com/haugv/Stock8000Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service8000/src/main/java/com/haugv/controller/StockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service8000/src/main/java/com/haugv/controller/StockController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service8000/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service8000/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service9000/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service9000/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service9000/src/main/java/com/haugv/Stock9000Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service9000/src/main/java/com/haugv/Stock9000Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service9000/src/main/java/com/haugv/controller/StockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service9000/src/main/java/com/haugv/controller/StockController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service9000/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/redis/redis-distributed-lock/stock-service9000/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../framework-study/zookeeper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../framework-study/zookeeper/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/common/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/common/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/constant/ResultCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/constant/ResultCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/constant/VarDict.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/constant/VarDict.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/Question.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/Topic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/Topic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/api-common/src/main/java/com/haugv/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/development-procedure.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/development-procedure.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/schedule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/UserMain1001.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/UserMain1001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/src/main/java/com/haugv/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hastJava/service-user/src/main/resources/sql/user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../hastJava/service-user/src/main/resources/sql/user.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-framework-study/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-relative-skill-study/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-relative-skill-study/rabbitmq-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-relative-skill-study/rabbitmq-demo/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-study-notes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-study-notes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-study-notes/redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java-study-notes/redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-study-notes/redis/src/main/java/com/haugv/RedisApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-study-notes/redis/src/main/java/com/haugv/RedisApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-study-notes/redis/src/main/java/com/haugv/controller/CommodityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-study-notes/redis/src/main/java/com/haugv/controller/CommodityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java-study-notes/redis/src/main/java/com/haugv/utils/RedisUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java-study-notes/redis/src/main/java/com/haugv/utils/RedisUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sprigboot-restful-demo/common-esb-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springboot-mongodb-study/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-mongodb-study/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boot/src/main/java/haugv/ihast/boot/common/JsonResult.java" beforeDir="false" afterPath="$PROJECT_DIR$/boot/src/main/java/haugv/ihast/boot/common/JsonResult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vue/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue/src/router/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$USER_HOME$/Downloads/maven_repository" />
+        <option name="mavenHome" value="$USER_HOME$/Downloads/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/Downloads/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qbQVjuaOu7QwYdvKPgGW2Xj00h" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vue/src/components" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/vue/src/components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="haugv.ihast.boot.BootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3ad6f77-dea5-44e9-a10b-63d60f3d2245" name="Default Changelist" comment="" />
+      <created>1617345835466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617345835466</updated>
+      <workItem from="1617345837303" duration="2548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
